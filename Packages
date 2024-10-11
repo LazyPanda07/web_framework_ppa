@@ -1,0 +1,39 @@
+Package: web-framework
+Version: 1.0.0
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Depends: gcc-13 | clang-18
+Filename: ./web-framework_1.0.0-1_amd64.deb
+Size: 3492822
+MD5sum: 24be6468ecdbea6868ad282cc7e6447d
+SHA1: 29001919667152c7ebec997a03d8a342a4db99a6
+SHA256: e120e0001f9fbb136b122f0f420ced41fa09e710a204031e79e8f13b68fa044e
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework for C++
+
+Package: web-framework-dev
+Version: 1.0.0
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Depends: gcc-13 | clang-18, uuid-dev
+Filename: ./web-framework-dev_1.0.0-1_amd64.deb
+Size: 6412268
+MD5sum: d6a4498fc2a75bc99dcf1a1b38a2eb69
+SHA1: a107e6fb51fbdf826a0dc635a875b020ead66745
+SHA256: 6f627419c5832977059adfa7ecf8260dc75d4bee39bf315631796ffb58d980ae
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework for C++
+
+Package: web-framework-static-dev
+Version: 1.0.0
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Depends: gcc-13 | clang-18, uuid-dev
+Filename: ./web-framework-static-dev_1.0.0-1_amd64.deb
+Size: 4526132
+MD5sum: 004d453bc7619e13a956a65edff613b6
+SHA1: 43cc319bbb047a589c68cc3eea041488a4a028a5
+SHA256: 8da8e07c679fe15c7335683a3e1b234dacebf0aba52825adb8db5f0bf2c3655c
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework for C++
+
