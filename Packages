@@ -59,6 +59,18 @@ SHA256: cee929820ef996705cff4583edae0e393b8bb7d4279c4c85c0b014e4edccee3c
 Homepage: https://github.com/LazyPanda07/WebFramework
 Description: Web framework for C++
 
+Package: web-framework
+Version: 1.0.5
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Filename: ./web-framework_1.0.5-6_amd64.deb
+Size: 3558340
+MD5sum: 2c5442d407fa029401c532e0121ad6f9
+SHA1: ef73612846481c93125030c4bc3fcfd0c5c853e2
+SHA256: 98a9a0e214b54b5b0c2c53cc1a68eaa1a63645a2c09fbecdfef1084f17e22604
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework for C++
+
 Package: web-framework-dev
 Version: 1.0.0
 Architecture: amd64
@@ -124,6 +136,19 @@ SHA256: dc03bb0f055f5a2eaea8c24bd8980704f82d0abf982ac9c845e7ba5b4b974845
 Homepage: https://github.com/LazyPanda07/WebFramework
 Description: Web framework for C++
 
+Package: web-framework-dev
+Version: 1.0.5
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Depends: build-essential | clang, uuid-dev
+Filename: ./web-framework-dev_1.0.5-6_amd64.deb
+Size: 6405968
+MD5sum: d956d739a450293e53c7198ee08c7f14
+SHA1: 9e8c446db43a9fd8dc18a37bc7b744b2691801a9
+SHA256: 66ffb333505cbee4a437a342a1c04c4f80ea1d66456a4be57249d822e6d40bc6
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework for C++
+
 Package: web-framework-static-dev
 Version: 1.0.0
 Architecture: amd64
@@ -186,6 +211,19 @@ Size: 4581774
 MD5sum: 3207667b5b358133d56b9ebcdb49a891
 SHA1: fc69e90d763ae13d1490fcc842d39c7f5e653bc4
 SHA256: b1147f2d9f838bcdae1272f7c34cd39e21779212ae0e677ce28167b5ded594c9
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework for C++
+
+Package: web-framework-static-dev
+Version: 1.0.5
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Depends: build-essential | clang, uuid-dev
+Filename: ./web-framework-static-dev_1.0.5-6_amd64.deb
+Size: 4583222
+MD5sum: ba062fa8528600b8974daf7404ea9efc
+SHA1: e8f1f549cf9bf8e8cd475ac44b68985e6925bb2a
+SHA256: 847835036cfb12e2ba5710a97fb64de3dd3fe3e06dfa45cfdff42681d38d7743
 Homepage: https://github.com/LazyPanda07/WebFramework
 Description: Web framework for C++
 
