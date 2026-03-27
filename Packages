@@ -191,6 +191,18 @@ SHA256: 287a6b253870a0ba44cf3791e1de9f16fbe1752763c40a9a70a09786748766bf
 Homepage: https://github.com/LazyPanda07/WebFramework
 Description: Web framework in C++ with C, C++, C#, Python, Flutter APIs
 
+Package: web-framework
+Version: 3.3.3
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Filename: ./web-framework_3.3.3-17_amd64.deb
+Size: 19366076
+MD5sum: d77494db26d2395e0ba22fd8332c86c0
+SHA1: 3f67cc1e3007e962b08dc51dc79f5019dbc03f13
+SHA256: 7e693f68be1cc7dbb36e6ef385b15155533faade487976916abab41a0df0f4b6
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework in C++ with C, C++, C#, Python, Flutter APIs
+
 Package: web-framework-dev
 Version: 1.0.0
 Architecture: amd64
@@ -396,6 +408,19 @@ Size: 4157796
 MD5sum: 1247a3865cda050e6fe74c4eba0eae06
 SHA1: 071e1c2ef21f05fd0b541d00b0ca9962d40c12a1
 SHA256: 72a2f4c9a1b8f673c6cb8b17725b6e37b5c1a9238991e2d129c84a0d2f59c430
+Homepage: https://github.com/LazyPanda07/WebFramework
+Description: Web framework in C++ with C, C++, C#, Python, Flutter APIs
+
+Package: web-framework-dev
+Version: 3.3.3
+Architecture: amd64
+Maintainer: lazypanda07 semengricenko@gmail.com
+Depends: build-essential | clang, uuid-dev
+Filename: ./web-framework-dev_3.3.3-17_amd64.deb
+Size: 19458316
+MD5sum: 3e5ee246bad167c85ef13ae93c4c6ee6
+SHA1: dd08d16ac89d5eb1c8ec014e60f3774c41b0114e
+SHA256: 4ef12235687716e1509093d23086d1082a56dd8fcb1067aabaecea5de3d1f7d9
 Homepage: https://github.com/LazyPanda07/WebFramework
 Description: Web framework in C++ with C, C++, C#, Python, Flutter APIs
 
